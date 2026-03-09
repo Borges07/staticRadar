@@ -25,7 +25,7 @@ function App() {
         </p>
 
         <div className="image-box">
-          <img src="\public\WhatsApp Image 2026-03-08 at 22.11.26.jpeg" alt="promo" />
+          <img src="/logo.jpeg" alt="promo" />
         </div>
 
         <button className="btn" onClick={abrirWhatsapp}>
